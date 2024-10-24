@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const baseUrl = "https://notesbackend-j5n1.onrender.com/api/notes";
+const baseUrl = "/api/notes";
 
 
 
